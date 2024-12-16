@@ -1,0 +1,14 @@
+c:\Users\arshe\Desktop\coding\C_SHARP\oop\kursova\bin\Debug\net8.0\kursova.exe
+c:\Users\arshe\Desktop\coding\C_SHARP\oop\kursova\bin\Debug\net8.0\kursova.deps.json
+c:\Users\arshe\Desktop\coding\C_SHARP\oop\kursova\bin\Debug\net8.0\kursova.runtimeconfig.json
+c:\Users\arshe\Desktop\coding\C_SHARP\oop\kursova\bin\Debug\net8.0\kursova.dll
+c:\Users\arshe\Desktop\coding\C_SHARP\oop\kursova\bin\Debug\net8.0\kursova.pdb
+c:\Users\arshe\Desktop\coding\C_SHARP\oop\kursova\obj\Debug\net8.0\kursova.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\arshe\Desktop\coding\C_SHARP\oop\kursova\obj\Debug\net8.0\kursova.AssemblyInfoInputs.cache
+c:\Users\arshe\Desktop\coding\C_SHARP\oop\kursova\obj\Debug\net8.0\kursova.AssemblyInfo.cs
+c:\Users\arshe\Desktop\coding\C_SHARP\oop\kursova\obj\Debug\net8.0\kursova.csproj.CoreCompileInputs.cache
+c:\Users\arshe\Desktop\coding\C_SHARP\oop\kursova\obj\Debug\net8.0\kursova.dll
+c:\Users\arshe\Desktop\coding\C_SHARP\oop\kursova\obj\Debug\net8.0\refint\kursova.dll
+c:\Users\arshe\Desktop\coding\C_SHARP\oop\kursova\obj\Debug\net8.0\kursova.pdb
+c:\Users\arshe\Desktop\coding\C_SHARP\oop\kursova\obj\Debug\net8.0\kursova.genruntimeconfig.cache
+c:\Users\arshe\Desktop\coding\C_SHARP\oop\kursova\obj\Debug\net8.0\ref\kursova.dll
